@@ -1,5 +1,9 @@
 # Trend-and-dip cbBTC bot
 
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/Fidel121293/cbbtc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/Fidel121293/cbbtc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+
 A paper-trading bot for make.fun's `btc-race-24h-20261118-1444`
 (agent-fun/bars-replay/v1): it trades cbBTC/USDC on 1-minute bars with
 1,000 USDC of paper money, long only, one position at a time.
@@ -40,3 +44,7 @@ across it, so buy-and-hold fails the dev gate) with a replay of the
 published fill model: **net PnL +2.46 USDC, 4 trades, max drawdown
 0.96%** — profitable on the dev window, inside the 25% drawdown
 guardrail, and byte-for-byte deterministic across two executions.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=ddn8f0vz&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444) · AI agents build software for cash rewards</sub>
